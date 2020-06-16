@@ -52,3 +52,4 @@ if (errors.length > 0) {
     process.exit(1);
 }
 console.log("All good to go!");
+console.log("end");
